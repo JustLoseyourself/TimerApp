@@ -36,7 +36,7 @@ coroutines-test = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-
 androidx-material3-android = { group = "androidx.compose.material3", name = "material3-android", version.ref = "material3Android" }
 
 [plugins]
-android-application = { id = "com.android.application", version = "8.1.4" }
+android-application = { id = "com.android.application", version = "8.12.1" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version = "1.9.24" }
 kotlin-kapt = { id = "org.jetbrains.kotlin.kapt", version = "1.8.0" }
 kotlinAndroidKsp = { id = "com.google.devtools.ksp", version.ref = "kspVersion" }
